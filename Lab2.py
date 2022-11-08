@@ -82,4 +82,3 @@ while is_stop == 1:
     is_stop = int(input("1-repeat exersice\n0-finish exersice\n"))
 
 show(storage)
-
